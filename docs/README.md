@@ -2,8 +2,8 @@
 Gerenciador de Turmas e Atividades com usuario Professor 
 
 ### MerxDer
-![MerDer](./docs/MERxDER.png)
+![MerDer](MERxDER.png)
 ### Diagrama de Casos de Uso
-![DCU](./docs/Diagrama.png)
+![DCU](Diagrama.png)
 
 #### Desenvolvido por Mellyssa e Lais
